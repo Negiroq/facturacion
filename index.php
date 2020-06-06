@@ -17,6 +17,7 @@
             <input type="text" name="usuario" id="" placeholder="Usuario">
         
             <input type="password" name="clave" id="" placeholder="Contraseña">
+            <p class="alert">Mensaje</p>
 
             <input type="submit" value="INGRESAR">
         
